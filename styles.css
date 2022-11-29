@@ -1,0 +1,276 @@
+
+  /* Navbar links */
+  
+
+  #pickles {
+    padding: 2%;
+  }
+  .pickle-square li :first-of-type {
+    position: absolute;
+    text-justify: left;
+  }
+
+  .product-name {
+    margin-top: 20px;
+  }
+
+  .product-name li {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-justify: left;
+  }
+
+  * {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .relish, .pickles {
+    margin: 5px;
+  }
+
+  .col-lg-5 {
+    border: 5px solid white;
+    padding: 5%;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin: 1%;
+    text-justify: left;
+    background-color: #4d830e;
+  }
+  
+  image {
+    border-color: white solid;
+  }
+  .fa-solid {
+    color: white;
+    border: none;
+  }
+  .fw-bold {
+    color: white;
+  }
+
+  body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+    background-color: #82CF2B!important;
+  }
+
+  .navbar-nav  li a:hover {
+    color: #EAE340 !important;
+  }
+
+  .navbar-nav  li a {
+    color: #ffffff;
+  }
+  a:link {
+    text-decoration: none;
+  }
+
+  .nav-link {
+    color: #fff; 
+  }
+  
+.navbar li {
+    float: left;
+    text-align: center;
+    padding: 52px;
+    text-decoration: none;
+    font-size: 17px;
+    list-style-type: none;
+    height: 10px;
+    color: #ffffff;
+}
+
+.navbar {
+    width: 100%;  
+    background-color: #4d830e; 
+}
+
+#main-nav {
+    color: #ffffff;
+}
+
+.img-fluid {
+    padding:none;
+    margin: none;
+}
+
+.product-pic {
+    text-align: center;
+    padding: 1%;  
+    height: 50;
+    width: 50;
+}
+
+#pickles, #relish {
+    text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+.pickles, .relish {
+    display: flex;
+    height: 50;
+    width: 50;
+}
+
+.fa-pepper-hot {
+    color:#821D01;
+    
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: center;
+   
+    /* color: rgb(214, 232, 83); */
+}
+
+.right {
+    float: right;
+    }
+
+    .bg-4 {
+        background-color: #4d830e;
+        color: #ffffff;
+        text-align: right;
+    }
+/*
+
+* {
+    color: rgb(214, 232, 83);
+    /*box-sizing: border-box; */
+
+    /*
+}
+
+
+#right {
+    float: right;
+}
+
+/* Style the navigation bar */
+ 
+/* Navbar links on mouse-over */
+
+/*
+.navbar a:hover {
+    color: darkgreen;
+  }
+  
+  /* Current/active navbar link */
+
+  /*
+  .active {
+    background-color: #04AA6D;
+  }
+  
+  /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+  
+  /*
+  @media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+  }
+
+.logo-img{
+    width: 500px;
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color:;
+    padding: 15px;
+    overflow: auto;
+    display: inline;
+}
+
+.logo {
+    font-size: 15px; 
+    font-weight: bold;
+    text-align: left;
+    color: rgb(214, 232, 83);
+}
+
+h2 {
+    font-size: large;
+    font-weight: bolder;
+}
+
+#pickleJars {
+    justify-content: center;
+    height: 2500px;
+    padding: 0;
+}
+
+/*
+p {
+    font-size: medium;
+    text-align: center;
+}
+
+  body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .product {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    color: #fff;
+    border-bottom: 4px solid #fdb347;
+  }
+  
+  .grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 10px;
+  }
+  
+  .product-pic {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 10px;
+  }
+  
+  .gallery::after {
+    content: "";
+    width: 350px;
+  }
+  
+  */
+  
