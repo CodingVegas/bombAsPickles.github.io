@@ -1,6 +1,10 @@
 
   /* Navbar links */
-  
+   .size {
+    text-align: center;
+    margin-left: -6%;
+    position: relative;
+  }
 
   #pickles {
     padding: 2%;
