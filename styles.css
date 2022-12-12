@@ -19,7 +19,7 @@
 }
 
 .relish, .pickles {
-  margin: 5px;
+  margin: 15px;
 }
 
 .col-lg-5 {
@@ -27,9 +27,10 @@
   padding: 5%;
   padding-right: 25px;
   padding-left: 25px;
-  margin: 1%;
+  margin: 8%;
   text-justify: left;
   background-color: #4d830e;
+  border-radius: .8em;
 }
 
 image {
