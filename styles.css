@@ -23,11 +23,11 @@
 }
 
 .col-lg-5 {
-  border: 5px solid white;
+  border: 3px solid white;
   padding: 5%;
-  padding-right: 25px;
-  padding-left: 25px;
-  margin: 8%;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin: 3%;
   text-justify: left;
   background-color: #4d830e;
   border-radius: .8em;
@@ -116,8 +116,6 @@ ul {
   height: 50;
   width: 50;
 }
-
-
   
 .fa-pepper-hot {
   color:#821D01;   
@@ -132,6 +130,10 @@ blockquote {
 
 .right {
   float: right;
+}
+
+#contact {
+  text-align: center;
 }
 
 .bg-4 {
